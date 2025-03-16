@@ -43,5 +43,13 @@ The goal is to optimize database queries, extract key business insights, and enh
 - **Products → Inventory**: One-to-One or One-to-Many (Depending on how inventory is managed)
 
   ## Power BI
-  ![Market Performance](https://github.com/user-attachments/assets/b9b4fda3-5f2f-470e-b2ed-26e41645b93e)
-  
+![Sales Performance](https://github.com/user-attachments/assets/a496939b-dcef-400e-ad31-2b5fc0b2d3e4)
+
+![Order Performance](https://github.com/user-attachments/assets/e01e0ab5-bd5f-4712-b5c9-91d546eb5da8)
+
+![Market Performance](https://github.com/user-attachments/assets/1942e2ba-e1dc-4183-9ff2-d6537ed681df)
+
+![Seller Performance](https://github.com/user-attachments/assets/742c9835-d92e-472b-a39e-79a16185850a)
+
+![Forecast Performance](https://github.com/user-attachments/assets/3fc4e17c-e63e-4db5-b628-c35a6a72cb1b)
+
