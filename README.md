@@ -26,3 +26,7 @@ The goal is to optimize database queries, extract key business insights, and enh
 - ✔ Enhanced decision-making with structured and well-organized data.
 - ✔ Improved SQL skills in handling large-scale e-commerce datasets.
 
+
+##ERD (Entity Relationship Diagram)
+
+![image](https://github.com/user-attachments/assets/d0538e23-32dc-46aa-9be8-9690c6adc32e)
