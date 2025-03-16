@@ -1,4 +1,4 @@
-# SQL-Project - Amazon E-Commerce
+# SQL-Project 
 
 ## Amazon E-Commerce Data Analysis & Optimization
 
