@@ -2,12 +2,12 @@
 
 Amazon E-Commerce Data Analysis & Optimization
 
-Project Overview:
+##Project Overview:
 This project focuses on analyzing Amazon's e-commerce data using advanced SQL techniques. 
 The goal is to optimize database queries, extract key business insights, and
 enhance decision-making for sales, orders, and seller performance.
 
-Key Topics Covered:
+##Key Topics Covered:
 Problem Statements – Addressing 20 key business challenges in e-commerce data analytics.
 Joins – Combining multiple tables (orders, products, sellers, customers) to generate meaningful insights.
 Common Table Expressions (CTEs) – Simplifying complex queries for improved readability and efficiency.
