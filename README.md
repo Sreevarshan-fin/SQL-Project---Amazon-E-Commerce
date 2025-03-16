@@ -30,3 +30,14 @@ The goal is to optimize database queries, extract key business insights, and enh
 ## ERD (Entity Relationship Diagram)
 
 ![image](https://github.com/user-attachments/assets/d0538e23-32dc-46aa-9be8-9690c6adc32e)
+
+## ERD Relationships
+
+- **Customers → Orders**: One-to-Many (A customer places multiple orders)  
+- **Orders → Order_Items**: One-to-Many (Each order can have multiple order items)  
+- **Order_Items → Products**: Many-to-One (Each order item refers to one product)  
+- **Products → Category**: Many-to-One (Each product belongs to one category)  
+- **Sellers → Products**: One-to-Many (Each seller manages multiple products)  
+- **Orders → Payments**: One-to-One (Each order has one payment)  
+- **Orders → Shipping**: One-to-One (Each order has one shipping record)  
+- **Products → Inventory**: One-to-One or One-to-Many (Depending on how inventory is managed)  
