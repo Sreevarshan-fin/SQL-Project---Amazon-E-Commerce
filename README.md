@@ -40,4 +40,8 @@ The goal is to optimize database queries, extract key business insights, and enh
 - **Sellers → Products**: One-to-Many (Each seller manages multiple products)  
 - **Orders → Payments**: One-to-One (Each order has one payment)  
 - **Orders → Shipping**: One-to-One (Each order has one shipping record)  
-- **Products → Inventory**: One-to-One or One-to-Many (Depending on how inventory is managed)  
+- **Products → Inventory**: One-to-One or One-to-Many (Depending on how inventory is managed)
+
+  ## Power BI
+  ![Market Performance](https://github.com/user-attachments/assets/b9b4fda3-5f2f-470e-b2ed-26e41645b93e)
+  
