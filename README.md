@@ -42,7 +42,7 @@ The goal is to optimize database queries, extract key business insights, and enh
 - **Orders → Shipping**: One-to-One (Each order has one shipping record)  
 - **Products → Inventory**: One-to-One or One-to-Many (Depending on how inventory is managed)
 
-  ## Power BI
+  ## Data visualization - Power BI
 ![Sales Performance](https://github.com/user-attachments/assets/a496939b-dcef-400e-ad31-2b5fc0b2d3e4)
 
 ![Order Performance](https://github.com/user-attachments/assets/e01e0ab5-bd5f-4712-b5c9-91d546eb5da8)
