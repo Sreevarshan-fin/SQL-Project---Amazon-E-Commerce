@@ -1,5 +1,11 @@
 # SQL-Project 
 
+
+### **Check out the link to my interactive dashboard**
+https://app.powerbi.com/view?r=eyJrIjoiODNjNjllNmUtOTg3My00NDU4LWFjOGMtNjQ1NmVjZGI3MWNmIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
+
+
+
 ## Amazon E-Commerce Data Analysis & Optimization
 
 ## Project Overview
