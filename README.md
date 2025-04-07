@@ -6,7 +6,7 @@ https://app.powerbi.com/view?r=eyJrIjoiODNjNjllNmUtOTg3My00NDU4LWFjOGMtNjQ1NmVjZ
 
 
 
-#                                                                               Amazon E-Commerce Data Analysis & Optimization
+# 🛒📦 Amazon E-Commerce Insights & Optimization                                                                             
 
 ## Project Overview
 This project focuses on analyzing Amazon's e-commerce data using advanced SQL techniques.  
